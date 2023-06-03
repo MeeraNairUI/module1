@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.bootsecurity.bootsecurity&apos; to &apos;com.bootsecurity&apos;&#x0D;&#x0A;- Original project: &apos;bootsecurity&apos;&#x0D;&#x0A;- Original element: &apos;bootsecurity/src/main/java/com.bootsecurity.bootsecurity&apos;&#x0D;&#x0A;- Renamed element: &apos;bootsecurity/src/main/java/com.bootsecurity&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.bootsecurity.bootsecurity&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.bootsecurity.bootsecurity" name="com.bootsecurity" qualified="false" references="true" stamp="1684818662921" textual="false" version="1.0"/>
+</session>

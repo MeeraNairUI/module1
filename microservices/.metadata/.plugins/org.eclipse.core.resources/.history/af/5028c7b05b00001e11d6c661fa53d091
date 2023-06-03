@@ -1,0 +1,5 @@
+package com.patientservice.controller;
+
+public class PatientController {
+
+}

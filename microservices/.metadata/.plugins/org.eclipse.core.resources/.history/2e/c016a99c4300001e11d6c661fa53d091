@@ -1,0 +1,5 @@
+package docterservice.controller;
+
+public class DoctorServiceController {
+
+}

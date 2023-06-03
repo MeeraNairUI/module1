@@ -1,0 +1,9 @@
+package com.patientservice.entity;
+
+import org.springframework.boot.autoconfigure.domain.EntityScan;
+
+@EntityScan
+public class PatientEntity {
+    private Long id;
+    private String name;
+    }

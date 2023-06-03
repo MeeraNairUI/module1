@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.sleuth.resources&apos; to &apos;com.example.sleuthservice.resources&apos;&#x0D;&#x0A;- Original project: &apos;sleuthservice&apos;&#x0D;&#x0A;- Original element: &apos;sleuthservice/src/main/java/com.sleuth.resources&apos;&#x0D;&#x0A;- Renamed element: &apos;sleuthservice/src/main/java/com.example.sleuthservice.resources&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.sleuth.resources&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.sleuth.resources" name="com.example.sleuthservice.resources" qualified="false" references="true" stamp="1684582534965" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,10 @@
+2023-05-26 10:15:46,931 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-26 10:16:23,901 [Worker-9: Creating project "jenkindemo"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jenkin:jenkindemo:0.0.1-SNAPSHOT @ D:\advanced\jenkins\jenkindemo\pom.xml.
+2023-05-26 10:16:24,594 [Worker-9: Creating project "jenkindemo"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkindemo/src/main/java
+2023-05-26 10:16:24,597 [Worker-9: Creating project "jenkindemo"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jenkindemo/src/main/resources
+2023-05-26 10:16:24,599 [Worker-9: Creating project "jenkindemo"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkindemo/src/test/java
+2023-05-26 10:16:24,599 [Worker-9: Creating project "jenkindemo"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jenkindemo/src/test/resources
+2023-05-26 10:16:25,796 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-26 10:16:25,805 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-26 10:16:25,809 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-26 10:16:25,810 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

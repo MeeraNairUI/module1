@@ -1,0 +1,8 @@
+package com.patientservice.repository;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface Patientrepo extends JpaRepository<PatientEntity,Long>{
+
+}

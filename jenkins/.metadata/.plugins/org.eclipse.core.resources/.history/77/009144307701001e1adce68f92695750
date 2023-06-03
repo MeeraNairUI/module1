@@ -1,0 +1,5 @@
+package com.awspipeline.resources;
+
+public class Connect {
+
+}
